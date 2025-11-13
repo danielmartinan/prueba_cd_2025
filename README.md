@@ -2,3 +2,5 @@
 Repositorio para pruebas de Git remoto
 
 Contenido adicional
+
+## Contenido adicional
